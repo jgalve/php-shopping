@@ -1,0 +1,22 @@
+h3{margin-top: 0px;}
+header {}
+
+.welcome-text {font-weight: bold; font-size: 16px;}
+.price {font-weight: bold;}
+
+#products-list h3{margin-top: 4px; margin-bottom: 3px;}
+#products-list p{margin-bottom: 1px;}
+#products-list img {margin: 0 auto 15px;}
+#products-list .col-prods {margin-bottom: 20px;}
+
+.single-product {margin-bottom: 40px;}
+.single-product img {margin-bottom: 20px;}
+
+.table-cart th {text-align: center;}
+.table-cart td {text-align: center;}
+
+.form-login {margin-top: 30px; border: 1px solid #ccc; padding: 15px 30px;}
+.product-table tbody tr td img {max-width: 100px; margin: 0 auto;}
+.product-table>thead>tr>td, .product-table>thead>tr>th {text-align: center;}
+
+footer {background: #ccc; height: 40px; padding: 10px 0px;}
